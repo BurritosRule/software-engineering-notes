@@ -67,11 +67,11 @@ DevOps, short for "Development and Operations," is a set of practices, principle
   - The primary purpose of CI/CD (Continuous Integration and Continuous Delivery/Deployment) tools is to streamline and automate the software development process, ensuring that code changes are integrated, tested, and deployed quickly and reliably
 
 
-## Development
+## Development (IN PROGRESS)
 
 ### Tools
 - **GitHub**/**GitLab**/**Bitbucket**:
   - A platform for version control and collaboration.
   - Enables code sharing, pull requests, and code
 
-## Testing
+## Testing (IN PROGRESS)
