@@ -109,6 +109,10 @@ DevOps, short for "Development and Operations," is a set of practices, principle
 ### Common Tools
 - **Jenkins**/**Concourse**/**GitHub Actions**/**CircleCI**/**Travis CI**/**Harness**:
   - The primary purpose of CI/CD (Continuous Integration and Continuous Delivery/Deployment) tools is to streamline and automate the software development process, ensuring that code changes are integrated, tested, and deployed quickly and reliably
+- **Docker**/**Podman**:
+  - A platform for developing, shipping, and running applications in containers.
+- **Kubernetes**:
+  - An open-source container orchestration platform for managing containerized applications at scale.
 
 ## Development (IN PROGRESS)
 
