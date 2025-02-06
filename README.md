@@ -72,6 +72,6 @@ DevOps, short for "Development and Operations," is a set of practices, principle
 ### Tools
 - **GitHub**/**GitLab**/**Bitbucket**:
   - A platform for version control and collaboration.
-  - Enables code sharing, pull requests, and code
+  - Enables code sharing, pull requests, and code reviews.
 
 ## Testing (IN PROGRESS)
